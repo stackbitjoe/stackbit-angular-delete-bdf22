@@ -2,7 +2,7 @@ stackbitVersion: ~0.5.0
 cmsName: contentful
 nodeVersion: '16'
 
-ssgName: custom
+ssgName: angular
 buildCommand: npm run build
 devCommand: npm run config && ./node_modules/.bin/ng serve  --port {PORT} --disable-host-check
 
